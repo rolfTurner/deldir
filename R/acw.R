@@ -1,5 +1,4 @@
 acw <- function(xxx) {
-#
 xbar    <- sum(xxx$x)/length(xxx$x)
 ybar    <- sum(xxx$y)/length(xxx$y)
 theta   <- atan2(xxx$y - ybar,xxx$x-xbar)

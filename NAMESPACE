@@ -1,6 +1,5 @@
 
 # Export everything
-#
 exportPattern("*")
 S3method(plot,deldir)
 S3method(plot,tile.list)

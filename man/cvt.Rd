@@ -1,5 +1,4 @@
 \encoding{UTF-8}
-%
 \name{cvt}
 \alias{cvt}
 \title{
