@@ -1,11 +1,11 @@
 # Run CI for R using https://eddelbuettel.github.io/r-ci/
 
-name: ci
+name: build-macos
 
 on: workflow_dispatch 
 
 jobs:
-  ci:
+  build-macos:
     strategy:
       matrix:
         include:
