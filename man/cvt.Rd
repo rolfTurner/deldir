@@ -71,9 +71,7 @@ Lloyd, Stuart P. (1982). Least squares quantization in PCM.
 pp. 129--137, doi:10.1109/TIT.1982.1056489.
 }
 
-\author{Rolf Turner
-  \email{r.turner@auckland.ac.nz}
-}
+\author{\rolf}
 \seealso{
 \code{\link{deldir}()} \code{\link{tile.list}()}
 }

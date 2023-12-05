@@ -74,10 +74,7 @@ and as are appropriate for the part in question.
 with the \code{pt}; present only if such values were supplied in
 the call to \code{deldir()}.}
 }
-\author{Rolf Turner
-  \email{r.turner@auckland.ac.nz}
-% \url{https://www.stat.auckland.ac.nz/~rolf}
-}
+\author{\rolf}
 \section{Acknowledgement}{
 The author expresses sincere thanks to Majid Yazdani who found and
 pointed out a serious bug in \code{tile.list} in a previous version
